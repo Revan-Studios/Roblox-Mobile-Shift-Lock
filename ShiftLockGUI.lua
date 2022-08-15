@@ -1,5 +1,3 @@
--- Decompiled with the Synapse X Luau decompiler.
-
 local l__RunService__1 = game:GetService("RunService");
 local l__ContextActionService__2 = game:GetService("ContextActionService");
 local l__LocalPlayer__3 = game:GetService("Players").LocalPlayer;

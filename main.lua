@@ -1,5 +1,3 @@
--- Decompiled with the Synapse X Luau decompiler.
-
 local l__Players__1 = game:GetService("Players");
 local l__UserInputService__2 = game:GetService("UserInputService");
 local v3 = {};
